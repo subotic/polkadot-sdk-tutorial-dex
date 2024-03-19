@@ -1,0 +1,18 @@
+{
+  "commitHash": "96d69a7b0be902a55b9cd629cd30ad208e33fefa",
+  "commitMessage": "template: generic types",
+  "files": [
+    {
+      "status": "M",
+      "file": "README.md"
+    },
+    {
+      "status": "M",
+      "file": "src/lib.rs"
+    },
+    {
+      "status": "M",
+      "file": "src/mock.rs"
+    }
+  ]
+}

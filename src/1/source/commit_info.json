@@ -1,0 +1,34 @@
+{
+  "commitHash": "03d7615253cc36f569938de8eaccb3d3e152c4c4",
+  "commitMessage": "action: git clone template",
+  "files": [
+    {
+      "status": "A",
+      "file": ".gitattributes"
+    },
+    {
+      "status": "M",
+      "file": ".gitignore"
+    },
+    {
+      "status": "A",
+      "file": "Cargo.toml"
+    },
+    {
+      "status": "M",
+      "file": "README.md"
+    },
+    {
+      "status": "A",
+      "file": "src/lib.rs"
+    },
+    {
+      "status": "A",
+      "file": "src/mock.rs"
+    },
+    {
+      "status": "A",
+      "file": "src/tests.rs"
+    }
+  ]
+}

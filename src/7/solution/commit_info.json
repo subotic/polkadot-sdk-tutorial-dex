@@ -1,0 +1,14 @@
+{
+  "commitHash": "360772fc279925ed0dc460eb53451ed183306ec6",
+  "commitMessage": "solution: extrinsic calls",
+  "files": [
+    {
+      "status": "M",
+      "file": "README.md"
+    },
+    {
+      "status": "M",
+      "file": "src/lib.rs"
+    }
+  ]
+}

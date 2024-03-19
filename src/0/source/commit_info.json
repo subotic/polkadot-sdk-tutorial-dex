@@ -1,0 +1,14 @@
+{
+  "commitHash": "38117a531c33f8ffff62a3901018ef30921d3f68",
+  "commitMessage": "section: introduction",
+  "files": [
+    {
+      "status": "A",
+      "file": ".gitignore"
+    },
+    {
+      "status": "A",
+      "file": "README.md"
+    }
+  ]
+}

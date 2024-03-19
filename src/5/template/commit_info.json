@@ -1,0 +1,18 @@
+{
+  "commitHash": "b8ca8ee453fd1d166477d9b3b4a0610f01e93c8e",
+  "commitMessage": "template: safe math",
+  "files": [
+    {
+      "status": "M",
+      "file": "README.md"
+    },
+    {
+      "status": "M",
+      "file": "src/lib.rs"
+    },
+    {
+      "status": "M",
+      "file": "src/liquidity_pool.rs"
+    }
+  ]
+}

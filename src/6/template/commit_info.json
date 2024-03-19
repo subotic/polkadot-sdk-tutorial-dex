@@ -1,0 +1,18 @@
+{
+  "commitHash": "8a969966152cd3fe244399538964db0c48d58f37",
+  "commitMessage": "template: floating point",
+  "files": [
+    {
+      "status": "M",
+      "file": "README.md"
+    },
+    {
+      "status": "M",
+      "file": "src/lib.rs"
+    },
+    {
+      "status": "M",
+      "file": "src/liquidity_pool.rs"
+    }
+  ]
+}

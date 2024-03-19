@@ -1,0 +1,18 @@
+{
+  "commitHash": "379ceba73e2d680e81fa98cbae7819253be7e45f",
+  "commitMessage": "template: object oriented design",
+  "files": [
+    {
+      "status": "M",
+      "file": "README.md"
+    },
+    {
+      "status": "M",
+      "file": "src/lib.rs"
+    },
+    {
+      "status": "A",
+      "file": "src/liquidity_pool.rs"
+    }
+  ]
+}

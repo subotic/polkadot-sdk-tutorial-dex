@@ -1,0 +1,15 @@
+{
+  "name": "generate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dex": "node index.js https://github.com/shawntabrizi/polkadot-sdk-tutorial-dex.git",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "simple-git": "^3.21.0"
+  }
+}

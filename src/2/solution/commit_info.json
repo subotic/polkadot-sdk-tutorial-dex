@@ -1,0 +1,14 @@
+{
+  "commitHash": "cd6b6948e37786c889a0891884f5ca48b46cf74b",
+  "commitMessage": "solution: generic types",
+  "files": [
+    {
+      "status": "M",
+      "file": "README.md"
+    },
+    {
+      "status": "M",
+      "file": "src/lib.rs"
+    }
+  ]
+}

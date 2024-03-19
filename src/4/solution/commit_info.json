@@ -1,0 +1,14 @@
+{
+  "commitHash": "f2177d9ed1bc8cca18285858a5cad390accfeb7c",
+  "commitMessage": "solution: object oriented design",
+  "files": [
+    {
+      "status": "M",
+      "file": "README.md"
+    },
+    {
+      "status": "M",
+      "file": "src/liquidity_pool.rs"
+    }
+  ]
+}

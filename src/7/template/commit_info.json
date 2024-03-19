@@ -1,0 +1,22 @@
+{
+  "commitHash": "7e98a9f667257cda6a6fbaf18f30e17fe85d5728",
+  "commitMessage": "template: extrinsic calls",
+  "files": [
+    {
+      "status": "M",
+      "file": "README.md"
+    },
+    {
+      "status": "M",
+      "file": "src/lib.rs"
+    },
+    {
+      "status": "M",
+      "file": "src/liquidity_pool.rs"
+    },
+    {
+      "status": "M",
+      "file": "src/mock.rs"
+    }
+  ]
+}

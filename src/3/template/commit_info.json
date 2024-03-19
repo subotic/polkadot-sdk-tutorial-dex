@@ -1,0 +1,14 @@
+{
+  "commitHash": "b4611fc2ec6dbae147f15f46e05d0db99778e6ed",
+  "commitMessage": "template: storage",
+  "files": [
+    {
+      "status": "M",
+      "file": "README.md"
+    },
+    {
+      "status": "M",
+      "file": "src/lib.rs"
+    }
+  ]
+}

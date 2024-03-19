@@ -1,0 +1,10 @@
+[book]
+authors = ["Philoniare"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Polkadot SDK Tutorial: DEX"
+
+[output.html]
+additional-css = ["custom/styles.css"]
+additional-js = ["custom/tabs.js"]
