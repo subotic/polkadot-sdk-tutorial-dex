@@ -1,4 +1,4 @@
-## Swap Functionality
+# Swap Functionality
 
 Finally, we'll implement the most used `swap` functionality. The `swap` function in a decentralized exchange (DEX)
 allows users to exchange one asset for another within a liquidity pool. It enables users to trade assets without the

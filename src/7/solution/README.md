@@ -1,4 +1,4 @@
-## Solution for `burn_liquidity`
+# Solution for `burn_liquidity`
 
 There's lots of ways that this can be implemented. Here's a sample implementation:
 

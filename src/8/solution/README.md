@@ -1,4 +1,4 @@
-## Solution
+# Solution
 
 Here's a simple helper function:
 
