@@ -423,7 +423,7 @@ let sectionMarkdown = `
 function getStepName(folder) {
 	const filePath = path.join(folder, "README.md");
 	const markdownContent = fs.readFileSync(filePath, "utf8");
-	const titleMatch = markdownContent.match(/^#\s+(.*)/m);
+	const titleMatch = markdownContent.match(/^#+\s+(.*)/m);
 	if (titleMatch) {
 		return titleMatch[1];
 	} else {
